@@ -21,7 +21,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: rgba(230, 239, 246, 1);
-    
+    min-height: 140vh;
 }
 
 #card {
