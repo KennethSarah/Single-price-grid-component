@@ -34,11 +34,11 @@ body {
 
 #top-section {
     width: 100%;
-    height: 45%;
-    padding: 80px;
+    height: 40%;
+    padding: 60px;
     background-color: rgba(255, 255, 255, 1);
     color: rgb(179, 176, 176);
-    font-size: 20px;
+    font-size: 30px;
 }
 
  h2 {
@@ -48,7 +48,7 @@ body {
 
 h3 {
    color: #cee26cff;
-   margin-bottom: 40px;
+   margin-bottom: 50px;
 }
 
 #bottom-section {
@@ -65,7 +65,7 @@ h3 {
     border: 1px solid rgba(43, 179, 177, 0);
     vertical-align: top;
     background-color: #2bb3b1ff;
-    padding: 60px;
+    padding: 40px;
 }
 
 #bottom-left-section h4 {
@@ -80,8 +80,8 @@ h3 {
     border: 2px solid rgba(255, 255, 255, 0);
     vertical-align: top;
     background-color: rgba(74, 190, 189, 1);
-    padding: 60px;
-    line-height: 50px;
+    padding: 40px;
+    line-height: 60px;
 }
 
 button {
@@ -105,15 +105,15 @@ button:hover {
 
 #price {
     font-weight: 900;
-    font-size: 1.8rem;
+    font-size: 2.8rem;
 }
 
 h4 {
-    font-size: 25px;
+    font-size: 32px;
 }
 
 p, ul {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #price-fq, #price {
@@ -130,7 +130,7 @@ p, ul {
 
 #price-container {
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 #bottom-left-section p {
@@ -138,5 +138,5 @@ p, ul {
 }
 
 #bottom-right-section h4 {
-    margin-bottom: 40px;
+    margin-bottom: 5px;
 }
