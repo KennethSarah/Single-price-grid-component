@@ -25,7 +25,7 @@ body {
 }
 
 #card {
-    width: 80vw;
+    width: 70vw;
     height: 80vh;
     border-radius: 5px;
     margin-top: 80px;
@@ -48,7 +48,7 @@ body {
 
 h3 {
    color: #cee26cff;
-   margin-bottom: 40px;
+   margin-bottom: 20px;
 }
 
 #bottom-section {
@@ -80,8 +80,8 @@ h3 {
     border: 2px solid rgba(255, 255, 255, 0);
     vertical-align: top;
     background-color: rgba(74, 190, 189, 1);
-    padding: 60px;
-    line-height: 50px;
+    padding: 40px;
+    line-height: 40px;
 }
 
 button {
@@ -138,5 +138,5 @@ p, ul {
 }
 
 #bottom-right-section h4 {
-    margin-bottom: 5px;
+    margin-bottom: 25px;
 }
